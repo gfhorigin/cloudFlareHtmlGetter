@@ -1,0 +1,2 @@
+# cloudFlareHtmlGetter
+ not full automatic
